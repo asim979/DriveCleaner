@@ -18,6 +18,10 @@ Run the script by typing:
 
 
 .\DriveCleaner.ps1
+
+
+
+
 -Enter the full path of the folder you want to scan when prompted for examble:  C:\Users\YourName\AppData\Local\Temp
 
 
